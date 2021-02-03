@@ -1,0 +1,15 @@
+{
+  "license": "MIT",
+  "sideEffects": false,
+  "scripts": {
+  },
+  "dependencies": {
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-instantsearch-dom": "^6.8.2"
+  },
+  "devDependencies": {
+    "rollup-plugin-includepaths": "^0.2.4",
+    "vite": "^2.0.0-beta.62"
+  }
+}
